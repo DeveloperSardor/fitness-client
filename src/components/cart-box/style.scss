@@ -1,0 +1,50 @@
+// font-family: Poppins;
+//             font-weight: 600;
+//             font-size: 18px;
+//             line-height: 27px;
+//             color: #303972;
+//             color: #5C63A3;
+
+.prd_box {
+  .left {
+    .title {
+      font-family: Poppins;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+      color: #5c63a3;
+    }
+    .category{
+        font-family: Poppins;
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 27px;
+        color: #303972;
+    }
+    .delete{
+        cursor: pointer;
+    }
+    .counter{
+        padding: 7px 20px;
+        font-family: Poppins, sans-serif;
+        border-radius: 10px;
+        font-weight: 600;
+        background: rgb(246, 247, 248);
+        button{
+            color: #5b67b4;
+        }
+    }
+   
+  }
+  .right {
+    .price{
+        font-size: 22px;
+        font-weight: 700;
+        font-family: Poppis;
+        line-height: 31.2px;
+        span{
+           color: rgb(213, 213, 70);
+        }
+   }
+  }
+}
